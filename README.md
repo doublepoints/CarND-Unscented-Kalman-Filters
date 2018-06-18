@@ -78,5 +78,5 @@ In this project, I fixed the set of parameters to achieve RMSE results:
 1:The standard deviation of the longitudinal acceleration std_a_ was set to 0.5 m/s^2.
 2:The process noise standard deviation of yaw acceleration std_yawdd was set to 1.0 rad/s^2.
 
-And, the result is shown on the following figure:![](/https://github.com/doublepoints/CarND-Unscented-Kalman-Filters/images/result.png) 
+And, the result is shown on the following figure:![](/https://github.com/doublepoints/CarND-Unscented-Kalman-Filters/images/result.jpg) 
 
